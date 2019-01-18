@@ -11,14 +11,14 @@ redirect_from:
 
 # Education #
 
-* Ph.D. in Business Administrationo, Fogelman College of Business and Economics, University of Memphis [2016]
-* M.S. in Strategy and Organizational Analysis, [UFPR  link] (<http://www.prppg.ufpr.br/site/ppgadm/>), 2009-2011
-* B.S. in Management, [UEM  link] (<http://www.uem.br/>), 2005-2008
+* Ph.D. in Business Administrationo, Fogelman College of Business and Economics, University of Memphis, (2016)
+* M.S. in Strategy and Organizational Analysis, [UFPR link](<http://www.prppg.ufpr.br/site/ppgadm//>), 2009-2011
+* B.S. in Management, [UEM  link](http://www.uem.br/), 2005-2008
 
 # Scholarships and Awards #
 
 * Humane Studies Fellowship, Institute for Humane Studies, 2018 (USD 2000).
-* Highly commended project, [Emeral/CLADEA Management Research Fund Award link] (<https://web.archive.org/web/20190117235520/http://www.emeraldgrouppublishing.com/research/awards/latin_man.htm/>) - Project: The influence of Top Mangement Team's cognition on Corporate Political Activities, 2018.
+* Highly commended project, [Emeral/CLADEA Management Research Fund Award link](https://web.archive.org/web/20190117235520/http://www.emeraldgrouppublishing.com/research/awards/latin_man.htm/) - Project: The influence of Top Mangement Team's cognition on Corporate Political Activities, 2018.
 * SMA Doctoral Consortia Late Stage, 2018 (USD 500).
 * SMA Doctoral Consortia Early Stage, 2016 (USD 500).
 * IHS Ph.D. Application Fee Waiver, Institute for Humane Studies, 2015 (USD 100).
@@ -30,17 +30,17 @@ redirect_from:
 
 ## Published Papers ##
 
-Leonel, R., Picheth, S., Silva, F., & Crubellate, J. (2018). Assessing the methodological differences between Brazilian journals and top journals in strategy. RAM – Revista de Administração Mackenzie, 19(3). [DOI Link](<http://dx.doi.org/10.1590/1678-6971/eramr180009/>)
+Leonel, R., Picheth, S., Silva, F., & Crubellate, J. (2018). Assessing the methodological differences between Brazilian journals and top journals in strategy. RAM – Revista de Administração Mackenzie, 19(3). [DOI Link](http://dx.doi.org/10.1590/1678-6971/eramr180009/)
 
-Leonel Junior, R. D. S., & Cunha, C. R. (2013). Atores, trabalho institucional e a institucionalização da estratégia de diversificação em uma cooperativa. Base, 10(1), 81–98. [DOI link] (<http://doi.org/10.4013/base.2013.101.07/>) (in Portuguese)
+Leonel Junior, R. D. S., & Cunha, C. R. (2013). Atores, trabalho institucional e a institucionalização da estratégia de diversificação em uma cooperativa. Base, 10(1), 81–98. [DOI link](http://doi.org/10.4013/base.2013.101.07/) (in Portuguese)
 
-Crubellate, J. M., Mendes, A. A., & Leonel Junior, R. D. S. (2009). Ambiente regulativo, respostas estratégicas e qualidade de ensino superior em organizações de ensino superior (IES) do Estado do Paraná. Revista de Administração Da UFSM, 2, 116–129. (in Portuguese) [Link link] (<http://www.spell.org.br/documentos/ver/5096/legal-environment--strategy-and-education-quality-in-higher-education-organizations/>)
+Crubellate, J. M., Mendes, A. A., & Leonel Junior, R. D. S. (2009). Ambiente regulativo, respostas estratégicas e qualidade de ensino superior em organizações de ensino superior (IES) do Estado do Paraná. Revista de Administração Da UFSM, 2, 116–129. (in Portuguese) [Link link](http://www.spell.org.br/documentos/ver/5096/legal-environment--strategy-and-education-quality-in-higher-education-organizations/)
 
 ## Conference Papers ##
 
 Preston, F., & Leonel, R. (2019). *How signals influence citation patterns*. SWAM 2019: Southwest Academy Of Management, Houston, 2019.
 
- Nalick, M., Zardkoohi, A., Kuban, S., Leonel, R., & Bierman, L. (2018). *Flipping the Script: Governments Competing to Appeal to the Firm Instead of Firms Competing to Appeal to the Government*. 2018 Meeting of the Southern Management Association, Lexington, KY, 2018.
+Nalick, M., Zardkoohi, A., Kuban, S., Leonel, R., & Bierman, L. (2018). *Flipping the Script: Governments Competing to Appeal to the Firm Instead of Firms Competing to Appeal to the Government*. 2018 Meeting of the Southern Management Association, Lexington, KY, 2018.
 
 Jorgensen, D., Leonel, R. & Fabian, F. *Emergent Strategy Threats to Identity and Legitimacy*. (2018). Paper to be presented at the SMS 38th Annual Conference. Paris, France.
 

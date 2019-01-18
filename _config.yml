@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ronei Leonel"
-  avatar           : "ronei_leonel.jpg"
+  avatar           : "ronei_leonel.jpeg"
   bio              : ""
   location         : "Memphis, TN"
   employer         :
@@ -207,7 +207,7 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  - scope:
+  # - scope:
       path: ""
       type: teaching
     values:
@@ -216,7 +216,7 @@ defaults:
       share: true
       comments: true
   # _publications
-  - scope:
+  # - scope:
       path: ""
       type: publications
     values:
@@ -225,7 +225,7 @@ defaults:
       share: true
       comments: true
   # _portfolio
-  - scope:
+  # - scope:
       path: ""
       type: portfolio
     values:
@@ -234,7 +234,7 @@ defaults:
       share: true
       comment: true
   # _talks
-  - scope:
+  # - scope:
       path: ""
       type: talks
     values:
