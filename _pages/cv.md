@@ -9,51 +9,51 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+# Education #
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Ph.D. in Business Administrationo, Fogelman College of Business and Economics, University of Memphis [2016]
+* M.S. in Strategy and Organizational Analysis, [UFPR  link] (<http://www.prppg.ufpr.br/site/ppgadm/>), 2009-2011
+* B.S. in Management, [UEM  link] (<http://www.uem.br/>), 2005-2008
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+# Scholarships and Awards #
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Humane Studies Fellowship, Institute for Humane Studies, 2018 (USD 2000).
+* Highly commended project, [Emeral/CLADEA Management Research Fund Award link] (<https://web.archive.org/web/20190117235520/http://www.emeraldgrouppublishing.com/research/awards/latin_man.htm>) - Project: The influence of Top Mangement Team's cognition on Corporate Political Activities, 2018.
+* SMA Doctoral Consortia Late Stage, 2018 (USD 500).
+* SMA Doctoral Consortia Early Stage, 2016 (USD 500).
+* IHS Ph.D. Application Fee Waiver, Institute for Humane Studies, 2015 (USD 100).
+* Iberoamerican Young Scholars and Social Communicators Program, Fundacion Bases and  Fundacion Atlas, 2015.
+* CNPq Fellowship Grant, Brazilian Government, 2009 (USD 7000), 2010 (USD 8000).
+* Honors Diploma, Maringá State University, 2009.
+
+# Publications #
+
+## Published Papers ##
+
+Leonel, R., Picheth, S., Silva, F., & Crubellate, J. (2018). Assessing the methodological differences between Brazilian journals and top journals in strategy. RAM – Revista de Administração Mackenzie, 19(3). [DOI Link](<http://dx.doi.org/10.1590/1678-6971/eramr180009>)
+
+Leonel Junior, R. D. S., & Cunha, C. R. (2013). Atores, trabalho institucional e a institucionalização da estratégia de diversificação em uma cooperativa. Base, 10(1), 81–98. [DOI link] (<http://doi.org/10.4013/base.2013.101.07>) (in Portuguese)
+
+Crubellate, J. M., Mendes, A. A., & Leonel Junior, R. D. S. (2009). Ambiente regulativo, respostas estratégicas e qualidade de ensino superior em organizações de ensino superior (IES) do Estado do Paraná. Revista de Administração Da UFSM, 2, 116–129. (in Portuguese) [Link link] (<http://www.spell.org.br/documentos/ver/5096/legal-environment--strategy-and-education-quality-in-higher-education-organizations>)
+
+## Conference Papers ##
+
+Preston, F., & Leonel, R. (2019). *How signals influence citation patterns*. SWAM 2019: Southwest Academy Of Management, Houston, 2019.
+
+ Nalick, M., Zardkoohi, A., Kuban, S., Leonel, R., & Bierman, L. (2018). *Flipping the Script: Governments Competing to Appeal to the Firm Instead of Firms Competing to Appeal to the Government*. 2018 Meeting of the Southern Management Association, Lexington, KY, 2018.
+
+Jorgensen, D., Leonel, R. & Fabian, F. *Emergent Strategy Threats to Identity and Legitimacy*. (2018). Paper to be presented at the SMS 38th Annual Conference. Paris, France.
+
+Allen, D. G., Arena, D. F., Boyd, B., Landis, R. S., Leonel, R., Pierce, C. A., & Short, J. C. *Best Practices in Developing Review Papers*. In (Leonel, Arena & Pierce) Showcase Panel Session. Panel to be presented at the Annual Academy of Management Meeting, Chicago, IL.
+
+Nalick, M., Kuban, S., Josefy, M., Leonel, Ronei, & Chin, M. *The New Activist CEO: CEO ideology and Firms’ Socio-political Involvement*. (2018). In (Gupta, A., Chin, M.K. & Zajac, E.) Showcase Symposium - Political Ideology and Organizations. Panel to be presented at the Annual Academy of Management Meeting, Chicago, IL.
+
+Leonel, R., Kang, T., Montague-Mfuni, M., & Fabian, F. (2018). *The interplay between formal and informal institutions in attracting a Bitcoin market*. Academy of International Business 2018 Annual Meeting. Minneapolis, United States.
+
+Leonel, R., & Fabian, F. (2018). *Managing Tokenized Organizations: Understanding Blockchain Technologies beyond the Cryptocurrency Phenomenon*. AOM specialized conference Big Data and Managing in a Digital Economy. Surrey, England.
+
+Leonel, R., & Sander, J. A. (2018). *Growing the Market at the Bottom-of-the-pyramid in the Higher Education Industry*. SMS Sao Paulo. Sao Paulo, Brazil.
+
+Leonel, R, & Fabian, F. (2017). *Institutional Logics and Engagement in Disintermediation Projects: The Blockchain Adoption*. 2017 SMS Annual Conference. Houston, United States.
+
+Leonel Junior, R. & Crubellate, J. (2016). *Lights on institutional maintenance: bringing individuals and their background back in institutional analysis*. EGOS 2016.
