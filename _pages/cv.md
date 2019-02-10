@@ -18,7 +18,7 @@ redirect_from:
 # Scholarships and Awards #
 
 * Humane Studies Fellowship, Institute for Humane Studies, 2018 (USD 2000).
-* Highly commended project, [Emeral/CLADEA Management Research Fund Award](https://web.archive.org/web/20190117235520/http://www.emeraldgrouppublishing.com/research/awards/latin_man.htm/) - Project: The influence of Top Mangement Team's cognition on Corporate Political Activities, 2018.
+* Highly commended project, [Emerald/CLADEA Management Research Fund Award](https://web.archive.org/web/20190117235520/http://www.emeraldgrouppublishing.com/research/awards/latin_man.htm/) - Project: The influence of Top Management Team's cognition on Corporate Political Activities, 2018.
 * SMA Doctoral Consortia Late Stage, 2018 (USD 500).
 * SMA Doctoral Consortia Early Stage, 2016 (USD 500).
 * IHS Ph.D. Application Fee Waiver, Institute for Humane Studies, 2015 (USD 100).

@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Business Administration/Strategy at the University of Memphis.
+I am a Ph.D. Candidate in Business Administration - Strategy at the University of Memphis.
 
-My research interest is to understand the mutual influence between firms and "environments" (Industry, Science, State, Society/Culture, and Technology) in the generating of markets and social changes. I am also interested in Research Methods, especially in the application of natural language processing and machine learning to strategy research.
+My research focuses on the influence of institutions, social issues, and top management team over firm strategies. Topics related to research methods and the dynamic of the academic field of management complement my research interest.
+
+I work with Python, R, and Stata. I value transparency, reproducibility, and rigor as much as a good theory.
