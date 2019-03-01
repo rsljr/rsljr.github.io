@@ -38,15 +38,17 @@ Crubellate, J. M., Mendes, A. A., & Leonel Junior, R. D. S. (2009). Ambiente reg
 
 ## Conference Papers ##
 
-Preston, F., & Leonel, R. (2019). *How signals influence citation patterns*. SWAM 2019: Southwest Academy Of Management, Houston, 2019.
+Leonel, R., & Fabian, F. (2019). *Research topics in Strategy: North America versus Europe*. MMRC 2019: Mid-South Management Research Conference, Lexington, KY, 2019.
+
+Preston, F., & Leonel, R. (2019). *How signals influence citation patterns*. SWAM 2019: Southwest Academy Of Management, Houston, TX, 2019.
 
 Nalick, M., Zardkoohi, A., Kuban, S., Leonel, R., & Bierman, L. (2018). *Flipping the Script: Governments Competing to Appeal to the Firm Instead of Firms Competing to Appeal to the Government*. 2018 Meeting of the Southern Management Association, Lexington, KY, 2018.
 
-Jorgensen, D., Leonel, R. & Fabian, F. *Emergent Strategy Threats to Identity and Legitimacy*. (2018). Paper to be presented at the SMS 38th Annual Conference. Paris, France.
+Jorgensen, D., Leonel, R. & Fabian, F. (2018). *Emergent Strategy Threats to Identity and Legitimacy*. SMS 38th Annual Conference. Paris, France.
 
-Allen, D. G., Arena, D. F., Boyd, B., Landis, R. S., Leonel, R., Pierce, C. A., & Short, J. C. *Best Practices in Developing Review Papers*. In (Leonel, Arena & Pierce) Showcase Panel Session. Panel to be presented at the Annual Academy of Management Meeting, Chicago, IL.
+Allen, D., Arena, D., Boyd, B., Landis, R., Leonel, R., Pierce, C., & Short, J. (2018). *Best Practices in Developing Review Papers*. In (Leonel, Arena & Pierce) Showcase Panel Session. Annual Academy of Management Meeting, Chicago, IL.
 
-Nalick, M., Kuban, S., Josefy, M., Leonel, Ronei, & Chin, M. *The New Activist CEO: CEO ideology and Firms’ Socio-political Involvement*. (2018). In (Gupta, A., Chin, M.K. & Zajac, E.) Showcase Symposium - Political Ideology and Organizations. Panel to be presented at the Annual Academy of Management Meeting, Chicago, IL.
+Nalick, M., Kuban, S., Josefy, M., Leonel, Ronei, & Chin, M. (2018). *The New Activist CEO: CEO ideology and Firms’ Socio-political Involvement*. (2018). In (Gupta, A., Chin, M.K. & Zajac, E.) Showcase Symposium - Political Ideology and Organizations. Annual Academy of Management Meeting, Chicago, IL.
 
 Leonel, R., Kang, T., Montague-Mfuni, M., & Fabian, F. (2018). *The interplay between formal and informal institutions in attracting a Bitcoin market*. Academy of International Business 2018 Annual Meeting. Minneapolis, United States.
 
