@@ -38,6 +38,10 @@ Crubellate, J. M., Mendes, A. A., & Leonel Junior, R. D. S. (2009). Ambiente reg
 
 ## Conference Papers ##
 
+Leonel, R., & Fabian, F. (2019). *Who is Included in What Strategic Management Research: A topic analysis by journals and years*. To be presented at the Academy of Management Meeting, Boston.
+
+Rehbein, K., Westermann-Behaylo, M., Perrault, E., & Leonel, R. (2019). *Social Activism Through E-Petitions: Predicting Activists' Targeting Petitions and Firm Responses*. To be presented at the Academy of Management Meeting, Boston.
+
 Leonel, R., & Fabian, F. (2019). *Research topics in Strategy: North America versus Europe*. MMRC 2019: Mid-South Management Research Conference, Lexington, KY, 2019.
 
 Preston, F., & Leonel, R. (2019). *How signals influence citation patterns*. SWAM 2019: Southwest Academy Of Management, Houston, TX, 2019.
