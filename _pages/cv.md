@@ -38,6 +38,12 @@ Crubellate, J. M., Mendes, A. A., & Leonel Junior, R. D. S. (2009). Ambiente reg
 
 ## Conference Papers ##
 
+Leonel, R., Fabian, F., & Nalick, M. (2019). Corporate Social Activity: firms’ effort to influence social institutions. To be presented at the 2019 Meeting of the Southern Management Association, Norfolk.
+
+Leonel, R. (2019). CEO Narcissists on the Couch: An Assessment Of CEO Narcissism Utilizing Meta-analytic Structural Equation Modeling. To be presented at the SMS 39th Annual Conference, Minneapolis.
+
+Nalick, M., Kuban, S., Leonel, R., Josefy, M., & Chin, M. (2019). CSR or CEO Opportunism? Why Firms Wade Into Controversial Social Issues. To be presented at the SMS 39th Annual Conference, Minneapolis.
+
 Leonel, R., & Fabian, F. (2019). *Who is Included in What Strategic Management Research: A topic analysis by journals and years*. To be presented at the Academy of Management Meeting, Boston.
 
 Rehbein, K., Westermann-Behaylo, M., Perrault, E., & Leonel, R. (2019). *Social Activism Through E-Petitions: Predicting Activists' Targeting Petitions and Firm Responses*. To be presented at the Academy of Management Meeting, Boston.
