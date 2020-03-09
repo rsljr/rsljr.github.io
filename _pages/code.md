@@ -9,4 +9,4 @@ To support my research, I have coded small scripts to fix specific problems. I m
 
 EDGAR database contains several types of fillings that public companies are required to submit to SEC. Although EDGAR is a rich source of data, gathering the data from it can be not straightforward. The repository [python-edgar](https://github.com/rsljr/python-edgar), has some of the scripts that I coded to gather data about inside trading, 8-k fillings and executive compensation from EDGAR.  
 
-For more details about my code, please concat me via email.
+For more details, please concat me via email.
