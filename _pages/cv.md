@@ -11,12 +11,14 @@ redirect_from:
 
 # Education #
 
-* Ph.D. in Business Administrationo, Fogelman College of Business and Economics, University of Memphis, (2016)
+* Ph.D. in Business Administrationo, Fogelman College of Business and Economics, University of Memphis, (2016-Present)
 * M.S. in Strategy and Organizational Analysis, [UFPR](<http://www.prppg.ufpr.br/site/ppgadm//>), 2009-2011
 * B.S. in Management, [UEM](http://www.uem.br/), 2005-2008
 
-# Scholarships and Awards #
+# Grants, Awards, and Honors #
 
+* Ph.D. Student Teaching Award, Fogelman College of Business & Economics, University of Memphis, 2020 (USD 1,000).  
+* Best Reviewer Award – Strategy Process Track, Strategic Management Society Annual Conference, 2019.  
 * Humane Studies Fellowship, Institute for Humane Studies, 2018 (USD 2000).
 * Highly commended project, [Emerald/CLADEA Management Research Fund Award](https://web.archive.org/web/20190117235520/http://www.emeraldgrouppublishing.com/research/awards/latin_man.htm/) - Project: The influence of Top Management Team's cognition on Corporate Political Activities, 2018.
 * SMA Doctoral Consortia Late Stage, 2018 (USD 500).
@@ -30,6 +32,8 @@ redirect_from:
 
 ## Published Papers ##
 
+Rehbein, K., Leonel, R., de Bakker, F., & den Hond, F. (2020). How Do Firms That Are Changing the World Engage Politically? Rutgers Business Review.
+
 Leonel, R., Picheth, S., Silva, F., & Crubellate, J. (2018). Assessing the methodological differences between Brazilian journals and top journals in strategy. RAM – Revista de Administração Mackenzie, 19(3). [DOI](http://dx.doi.org/10.1590/1678-6971/eramr180009/)
 
 Leonel Junior, R. D. S., & Cunha, C. R. (2013). Atores, trabalho institucional e a institucionalização da estratégia de diversificação em uma cooperativa. Base, 10(1), 81–98. [DOI](http://doi.org/10.4013/base.2013.101.07/) (in Portuguese)
@@ -37,6 +41,12 @@ Leonel Junior, R. D. S., & Cunha, C. R. (2013). Atores, trabalho institucional e
 Crubellate, J. M., Mendes, A. A., & Leonel Junior, R. D. S. (2009). Ambiente regulativo, respostas estratégicas e qualidade de ensino superior em organizações de ensino superior (IES) do Estado do Paraná. Revista de Administração Da UFSM, 2, 116–129. (in Portuguese) [Link](http://www.spell.org.br/documentos/ver/5096/legal-environment--strategy-and-education-quality-in-higher-education-organizations/)
 
 ## Conference Papers ##
+
+Montague-Mfuni, M., Leonel, R., Aissaoui, R., Fabian, F., & Nag, D. (2020). Culture or Demography: Implications of Board Inclusivity and CSR. SMS 40th Annual Conference, London.
+
+Boyd, B. K., Solarino, A., Leonel, R., & Arena Jr., D. (2020). Rigor and transparency in management review articles: Insights for prospective authors and reviewers. Annual Academy of Management Meeting, Vancouver.  
+
+Lee, J., Leonel, R., & Perrault, E. (2020). Of Shepherds and Sheep: Who Sets the Agenda for Firms’ Attention to Social Issues? Annual Academy of Management Meeting, Vancouver.
 
 Leonel, R., Fabian, F., & Nalick, M. (2019). Corporate Social Activity: firms’ effort to influence social institutions. To be presented at the 2019 Meeting of the Southern Management Association, Norfolk.
 
