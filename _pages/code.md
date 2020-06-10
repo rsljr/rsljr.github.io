@@ -1,6 +1,6 @@
 ---
-permalink: /code/
-title: "Code"
+permalink: /resources/
+title: "Resources"
 author_profile: true
 ---
 To support my research, I have coded small scripts to fix specific problems. I made some of them available to make possibly the life of fellow researchers easier.
