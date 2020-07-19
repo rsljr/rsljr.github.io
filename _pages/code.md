@@ -13,6 +13,6 @@ EDGAR database contains several types of fillings that public companies are requ
 
 Based on Nash and Patel's discussion of instrumental variables for national cultural values, I compiled a repository with several instrumental variables cited in the paper. You can access the [repository here](https://github.com/rsljr/cultural_values_instrumental_variables)
 
-[Instrumental Variables database](https://github.com/rsljr/cultural_values_instrumental_variables)
+[Instrumental Variables database](https://rsljr.github.io/instrumental_variable_strategy_research/)
 
 For more details, please contact me via email.

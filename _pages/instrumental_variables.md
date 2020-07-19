@@ -5,4 +5,4 @@ author_profile: true
 ---
 Test 123  
 
-<iframe width="450" height="400" scrolling="yes" frameborder="no"  src="https://roneileonel.shinyapps.io/instrumental_variable_strategy/">  
+<iframe width="700" height="700" scrolling="yes" frameborder="no"  src="https://roneileonel.shinyapps.io/instrumental_variable_strategy/">  
