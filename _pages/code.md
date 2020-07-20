@@ -11,7 +11,7 @@ EDGAR database contains several types of fillings that public companies are requ
 
 ## Instrumental Variables - an Instrument Database for Research in Strategy ##
 
-Identifying causal effects is an important goal to research in strategy as we seek to inform firms' strategies. The instrumental variable, an identification strategy, allows the researchers to estimate the causal effects of an endogenous variable. However, identifying a good instrument can be challenging. Aiming to facilitate the search and the development of new instrumental variables, I created a database with instrument-instrumented variable pairs. You can check it out [Instrumental Variables - Webpage](https://rsljr.github.io/instrumental_variable_strategy_research/) or [Instrumental Variables - R shiny app](https://roneileonel.shinyapps.io/instrumental_variable_strategy/).
+Identifying causal effects is an important goal to research in strategy as we seek to inform firms' strategies. Instrumental variable, an identification strategy, allows researchers to estimate the causal effects of an endogenous variable. However, identifying a good instrument can be challenging. Aiming to facilitate the search and the development of new instrumental variables, I created a database with instrument-instrumented variable pairs. You can check it out [Instrumental Variables - Webpage](https://rsljr.github.io/instrumental_variable_strategy_research/) or [Instrumental Variables - R shiny app](https://roneileonel.shinyapps.io/instrumental_variable_strategy/).
 
 ## Instrumental Variables and National Cultural Values ##
 
