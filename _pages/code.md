@@ -9,7 +9,7 @@ Over the years, I have developed and compiled resources (e.g., scripts, dictiona
 
 EDGAR database contains several types of fillings that public companies are required to submit to SEC. Although EDGAR is a rich source of data, gathering the data from it can be not straightforward. The repository [python-edgar](https://github.com/rsljr/python-edgar), has some of the scripts that I coded to gather data about inside trading, 8-k fillings and executive compensation from EDGAR.  
 
-## Instrumental Variables - an Instrument Database for Research in Strategy ##
+## Instrumental Variables - a Database of Instruments for Research in Strategy ##
 
 Identifying causal effects is an important goal to research in strategy as we seek to inform firms' strategies. Instrumental variable, an identification strategy, allows researchers to estimate the causal effects of an endogenous variable. However, identifying a good instrument can be challenging. Aiming to facilitate the search and the development of new instrumental variables, I created a database with instrument-instrumented variable pairs. You can check it out [Instrumental Variables - Webpage](https://rsljr.github.io/instrumental_variable_strategy_research/) or [Instrumental Variables - R shiny app](https://roneileonel.shinyapps.io/instrumental_variable_strategy/).
 
