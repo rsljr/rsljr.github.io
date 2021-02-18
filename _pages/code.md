@@ -3,11 +3,11 @@ permalink: /resources/
 title: "Resources"
 author_profile: true
 ---
-Over the years, I have developed and compiled resources (e.g., scripts, dictionaries, repositories) to support my research. I made some of them available here to make possibly the life of fellow researchers easier.
+Over the years, I have developed and compiled resources (e.g., scripts, dictionaries, repositories) to support my research. I made some of them available here.
 
 ## Python - SEC: EDGAR ##
 
-EDGAR database contains several types of fillings that public companies are required to submit to SEC. Although EDGAR is a rich source of data, gathering the data from it can be not straightforward. The repository [python-edgar](https://github.com/rsljr/python-edgar), has some of the scripts that I coded to gather data about inside trading, 8-k fillings and executive compensation from EDGAR.  
+EDGAR database contains several types of filings that public companies are required to submit to SEC. Although EDGAR is a rich source of data, gathering the data from it can be not straightforward. The repository [python-edgar](https://github.com/rsljr/python-edgar), has some of the scripts that I coded to gather data about inside trading (3, 4, and 5 filings), 10-k (annual reports) filings, 8-k (disclosure) filings, 13f (institutional investors) filings, and executive compensation (DEF 14A filings) from EDGAR.  
 
 ## Instrumental Variables - a Database of Instruments for Research in Strategy ##
 
