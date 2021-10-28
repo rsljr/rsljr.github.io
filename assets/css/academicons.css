@@ -325,3 +325,14 @@
 .fa.fa-pull-right {
   margin-left: .3em;
 }
+.begin_column ~ h2,
+.begin_column ~ h2 + p {
+    width: 100%;
+    clear: both;
+}
+
+.begin_column ~ h3,
+.begin_column ~ p,
+.begin_column ~ .highlight {
+    width: 50%;
+}
