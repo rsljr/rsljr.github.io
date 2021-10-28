@@ -4,12 +4,10 @@ title: "Research"
 author_profile: true
 ---
 
-<div class="begin"></div>
+
 ## How Do Firms That Are Changing the World Engage Politically? ##
 
-There is a movement to push firms to focus on policies and practices that enhance their competitiveness while simultaneously advancing the economic and social conditions in the communities in which the firm operates, the shared value firms. In this article, we examine how shared value firms deploy their political efforts, whether they seek alignment with their social goals, and how this alignment affects their financial performance. Using a matched-sample design with public firms listed in the Change the World list in 2018 and 2019, we find that shared value firms have more political breadth, connection, and PAC contributions than firms in the control group. However, our findings indicate that shared value firms are not more likely to align their social and political efforts. We also find that firms with aligned social and political efforts do not have a better financial performance. These findings have important implications for the literature on firm social and political efforts.
-
-![comparison of shared value firms with control group](/files/rbr_1.png)
+| There is a movement to push firms to focus on policies and practices that enhance their competitiveness while simultaneously advancing the economic and social conditions in the communities in which the firm operates, the shared value firms. In this article, we examine how shared value firms deploy their political efforts, whether they seek alignment with their social goals, and how this alignment affects their financial performance. Using a matched-sample design with public firms listed in the Change the World list in 2018 and 2019, we find that shared value firms have more political breadth, connection, and PAC contributions than firms in the control group. However, our findings indicate that shared value firms are not more likely to align their social and political efforts. We also find that firms with aligned social and political efforts do not have a better financial performance. These findings have important implications for the literature on firm social and political efforts. | ![comparison of shared value firms with control group](/files/rbr_1.png) |
 
 Read the article [here](https://rbr.business.rutgers.edu/article/how-do-firms-are-changing-world-engage-politically#.YXGA73SdI5M.twitter). 
 
@@ -21,4 +19,3 @@ The discussion about the quality of academic publication in Brazil has been a co
 
 Read the article [here](https://www.scielo.br/j/ram/a/rsxx96mj5zXhhKf9cLp9jtL/?lang=en).
 
-<div class="end-examples"></div>
