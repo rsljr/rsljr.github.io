@@ -325,3 +325,18 @@
 .fa.fa-pull-right {
   margin-left: .3em;
 }
+.column {
+  float: left;
+}
+.left {
+  width: 60%;
+}
+.right {
+  width: 40%;
+}
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
