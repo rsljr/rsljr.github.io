@@ -3,6 +3,7 @@ permalink: /resources/
 title: "Resources"
 author_profile: true
 ---
+
 Over the years, I have developed and compiled resources (e.g., scripts, dictionaries, repositories) to support my research. I made some of them available here.
 
 ## edgarParser ##

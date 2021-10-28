@@ -4,7 +4,6 @@ title: "Research"
 author_profile: true
 ---
 
-
 ## How Do Firms That Are Changing the World Engage Politically? ##
 
 <img align= "right" width="400" height="600" src="/files/rbr_1.png"  alt="comparison of shared value firms with control group" >
