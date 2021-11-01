@@ -21,8 +21,6 @@ A list of instruments used in strategy research. You can check it out [Instrumen
 
 Based on Nash and Patel's discussion of instruments for national cultural values, I compiled a repository with the data of several instruments cited in the paper. You can access the repository [here](https://github.com/rsljr/cultural_values_instrumental_variables)
 
-[//]: # (## Annoted Bibliography ##) 
-
 ## Other resources ##
 
 A list of texts, lectures, videos, books, and pages about doing research, research methods, and progrgaming. [here](/other_resources)
