@@ -11,8 +11,8 @@ redirect_from:
 
 # Education #
 
-* Ph.D. in Business Administrationo, Fogelman College of Business and Economics, University of Memphis, (2016-2021)
-* M.S. in Strategy and Organizational Analysis, [UFPR](<http://www.prppg.ufpr.br/site/ppgadm//>), 2009-2011
+* Ph.D. in Business Administration, Fogelman College of Business and Economics, University of Memphis, (2016-2021)
+* M.S. in Strategy and Organizational Analysis, [UFPR](http://www.prppg.ufpr.br/site/ppgadm/), 2009-2011
 * B.S. in Management, [UEM](http://www.uem.br/), 2005-2008
 
 # Grants, Awards, and Honors #
