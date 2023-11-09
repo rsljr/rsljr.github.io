@@ -4,6 +4,13 @@ title: "Research"
 author_profile: true
 ---
 
+## When does CEO compensation plan based on risk change firm strategic variation and strategic deviation? The moderating role of shareholder return ##
+
+<img align= "right" width="400" height="600" src="https://www.emerald.com/insight/proxy/img?link=resource/id/urn:emeraldgroup.com:asset:id:article:10_1108_MRJIAM-04-2023-1414/urn:emeraldgroup.com:asset:id:binary:MRJIAM-04-2023-141407.tif"  alt="conceptual model" >
+The analysis of executive compensation plans has been a long-standing topic of interest among scholars and professionals, especially in comprehending their impact on a firm’s strategic decisions. While there is agreement on aligning CEO incentives with shareholder interests, significant gaps in understanding persist. This study addresses these gaps by classifying compensation plans into low- and high-risk components and their implications for strategic variation and deviation within companies. Low-risk compensation generally encourages a conservative approach, with CEOs maintaining current strategies because they are satisfied with the status quo. On the other hand, high-risk compensation stimulates a proactive stance, urging CEOs to explore innovative strategies and pursue long-term value, which has a positive effect on strategic variation and deviation. Our findings suggest a change in approach towards compensation plans that emphasize risk components, thereby mitigating agency costs and aligning CEO interests with shareholder objectives. By prioritizing risk-focused compensation structures over traditional short- and long-term incentives, companies can promote strategic adaptability, driving innovation and sustainable growth. This study provides a meticulous examination of executive compensation, offering valuable insights for academia and industry. Companies can develop compensation plans that bridge the gap between principals and agents by understanding the delicate balance between risk components, firm performance, and strategic outcomes. This nuanced approach provides a practical framework that guides practitioners toward more informed, effective, and equitable executive compensation strategies in the modern corporate landscape.
+
+Read the article [here](https://www.emerald.com/insight/content/doi/10.1108/MRJIAM-04-2023-1414/full/html).
+
 ## How Do Firms that Are Changing the World Engage Politically? ##
 
 <img align= "right" width="400" height="600" src="/files/rbr_1.png"  alt="comparison of shared value firms with control group" >
