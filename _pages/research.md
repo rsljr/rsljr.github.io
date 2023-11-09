@@ -4,7 +4,7 @@ title: "Research"
 author_profile: true
 ---
 
-## Firms’ Response to Slacktivism: When and Why are E-Petitions Effective? ##
+## Firms’ response to slacktivism: when and why are e-petitions effective? ##
 
 <img align= "right" width="400" height="600" src="/files/8jdvvf8t.png"  alt="conceptual model" >
 E-petitions are online requests for change that can target various organizations, including firms. But do e-petitions matter? Some scholars argue that e-petitions are ineffective in achieving their goals as they mainly attract slacktivists who offer token support without taking any real action. Nonetheless, we challenge this notion and suggest that e-petitions have the potential to be a powerful tool for creating social change because they can damage the image and reputation of the targeted firm. E-petitions operate on the logic of connective action, which uses technology to connect individuals who share common grievances and goals without formal structures or leaders. Our review of 1587 e-petitions filed against Fortune 500 firms between 2010 and 2018 found that e-petitions can effectively change firm behavior, especially when they have high connectivity, velocity, and traditional media coverage. Therefore, e-petition supporters should focus on mobilizing as many people as possible to sign and share the e-petition on social media platforms and seek attention from newspapers, television, or radio.
