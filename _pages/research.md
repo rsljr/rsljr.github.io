@@ -12,7 +12,7 @@ Read the article [here]().
 
 ## Of shepherds and sheep: Who sets the agenda for firms' attention to social issues? ##
 
-<img align= "right" width="400" height="600" src="/files/8jdvvf8t.png"  alt="conceptual model" >
+<img align= "right" width="400" height="600" src="/news_media.jpeg"  alt="conceptual model" >
 What drives companies to focus their Corporate Social Responsibility (CSR) on specific social issues? Our study explores how the media is pivotal in shaping which social issues companies prioritize. By combining insights from agenda-setting theory and the attention-based view of the firm, we find that traditional media significantly influence the topics firms address in their CSR efforts. Furthermore, despite the evolving media landscape with the internet giving voice to several stakeholders, our findings show the traditional media as “curators” – gatekeepers that identify, select, and present what is believed to be most important and pressing to society - shaping firms' social efforts.
 
 Read the article [here](https://doi.org/10.1002/csr.2979).
