@@ -32,6 +32,15 @@ redirect_from:
 
 ## Published Papers ##
 
+Leonel, R., Rehbein, K., & Westermann‐Behaylo, M. (in press). Extending Beyond Collective Action: Stakeholders’ Influence on Firms in the Digital Age by Colleoni et al. (2024) and Barnett et al. (2024). Academy of Management Perspectives.
+
+Leonel, R., Lee, J., & Perrault, E. (in press). Of shepherds and sheep: Who sets the agenda for firms' attention to social issues? Corporate Social Responsibility and Environmental Management. [DOI](https://doi.org/10.1002/csr.2979)
+
+Leonel, R., Rehbein, K., Westermann‐Behaylo, M., & Perrault, E. (in press). Firms’ Response to Slacktivism: When and Why are E‐Petitions Effective?. Journal of Management Studies. [DOI](https://onlinelibrary.wiley.com/doi/full/10.1111/joms.13010)
+
+Severgnini, E., Vieira, V. A., Abib, G., & Leonel, R. (2023). When CEO compensation plan based on risk changes firm strategic variation and strategic deviation? The moderating role of shareholder return. Management Research: Journal of the Iberoamerican Academy of Management, 21(4), 371-403.
+https://www.emerald.com/insight/content/doi/10.1108/MRJIAM-04-2023-1414/full/html
+
 Rehbein, K., Leonel, R., de Bakker, F., & den Hond, F. (2020). How Do Firms That Are Changing the World Engage Politically? Rutgers Business Review.
 
 Leonel, R., Picheth, S., Silva, F., & Crubellate, J. (2018). Assessing the methodological differences between Brazilian journals and top journals in strategy. RAM – Revista de Administração Mackenzie, 19(3). [DOI](http://dx.doi.org/10.1590/1678-6971/eramr180009/)
@@ -39,3 +48,13 @@ Leonel, R., Picheth, S., Silva, F., & Crubellate, J. (2018). Assessing the metho
 Leonel Junior, R. D. S., & Cunha, C. R. (2013). Atores, trabalho institucional e a institucionalização da estratégia de diversificação em uma cooperativa. Base, 10(1), 81–98. [DOI](http://doi.org/10.4013/base.2013.101.07/) (in Portuguese)
 
 Crubellate, J. M., Mendes, A. A., & Leonel Junior, R. D. S. (2009). Ambiente regulativo, respostas estratégicas e qualidade de ensino superior em organizações de ensino superior (IES) do Estado do Paraná. Revista de Administração Da UFSM, 2, 116–129. (in Portuguese) [Link](http://www.spell.org.br/documentos/ver/5096/legal-environment--strategy-and-education-quality-in-higher-education-organizations/)
+
+## Book Chapters ##
+
+Grimm, I., Sander, J., Leonel, R. (2023). O papel do Estado na governança das cadeias produtivas sustentáveis. In Santos et al. (Ed.), Cadeia Produtiva Sustantável: Teorias e Abordagens Ecossocioeconômicas (pp. 47-75). Paraná, Ponta Grossa: Editora UEPG. (in Portuguese) [Link](https://www.editora.uepg.br/ebooks/livros-de-acesso-aberto/cadeia-produtiva-sustentavel-teorias-e-abordagens-ecossocioeconomicas#:~:text=O%20livro%20Cadeia%20produtiva%20sustent%C3%A1vel%3A%20teorias%20e%20abordagens,custos%20socioambientais%20de%20m%C3%A9dio%20e%20de%20longo%20prazos.)
+
+## Teaching Cases ##
+
+Schill, R., Leonel, R., Jorgensen, D. F., & Groves, J. (2023). Norfana: os desafios à viabilidade de um novo produto. Revista Brasileira de Casos de Ensino em Administração, c4-c4. (in Portuguese) [Link](https://doi.org/10.12660/gvcasosv13n1c4)
+
+Schill, R., Leonel, R., Fabian, F., & Jorgensen, D. F. (2022). Kuiki Credit: scaling innovation in a growing fintech startup. Emerald Emerging Markets Case Studies, 12(3), 1-20. [DOI](https://doi.org/10.1108/EEMCS-08-2021-0248)

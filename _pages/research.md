@@ -4,6 +4,19 @@ title: "Research"
 author_profile: true
 ---
 
+## Extending Beyond Collective Action: Stakeholders’ Influence on Firms in the Digital Age by Colleoni et al. (2024) and Barnett et al. (2024) ##
+
+Recent debates have explored whether digital media amplifies or diminishes stakeholders' ability to influence firms. On one side, some argue that digital media weakens collective action by promoting “slacktivism” and fragmented stakeholder efforts. On the other, proponents of digital media emphasize how tools like hashtags allow for the convergence of diverse stakeholders, potentially creating pressure on firms to respond to societal demands. Our work expands the conversation by examining digital activism beyond hashtags. We highlight how modern forms of activism, powered by digital tools, bring unique coalitions of stakeholders together to drive corporate change. These tools, combined with the logic of connective action, redefine how stakeholders influence firms. 
+
+Read the article [here]().
+
+## Of shepherds and sheep: Who sets the agenda for firms' attention to social issues? ##
+
+<img align= "right" width="400" height="600" src="/files/8jdvvf8t.png"  alt="conceptual model" >
+What drives companies to focus their Corporate Social Responsibility (CSR) on specific social issues? Our study explores how the media is pivotal in shaping which social issues companies prioritize. By combining insights from agenda-setting theory and the attention-based view of the firm, we find that traditional media significantly influence the topics firms address in their CSR efforts. Furthermore, despite the evolving media landscape with the internet giving voice to several stakeholders, our findings show the traditional media as “curators” – gatekeepers that identify, select, and present what is believed to be most important and pressing to society - shaping firms' social efforts.
+
+Read the article [here](https://doi.org/10.1002/csr.2979).
+
 ## Firms’ response to slacktivism: when and why are e-petitions effective? ##
 
 <img align= "right" width="400" height="600" src="/files/8jdvvf8t.png"  alt="conceptual model" >
