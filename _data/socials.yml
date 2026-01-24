@@ -53,6 +53,6 @@ x_username: roneileonel # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 custom_social: # can be any name here other than the ones already defined above
-  logo: https://upload.wikimedia.org/wikipedia/commons/c/c3/Chess_board.svg
+  logo: chess-knight-svgrepo-com.svg
   title: 32 on 64 (Chess Blog)
   url: https://32on64.substack.com/
