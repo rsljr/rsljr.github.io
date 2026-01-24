@@ -6,7 +6,7 @@ subtitle: <a href='#'>Salisbury University</a>. Address. Contacts.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>PH 321</p>
