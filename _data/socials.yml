@@ -35,7 +35,6 @@ orcid_id: 0000-0002-6406-0112 # your ORCID ID
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
-# rss_icon: https://32on64.substack.com/ # comment this line to hide the RSS icon
 scholar_userid: mLgRxJcAAAAJ # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
@@ -52,7 +51,4 @@ scholar_userid: mLgRxJcAAAAJ # your Google Scholar ID
 x_username: roneileonel # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-custom_social: # can be any name here other than the ones already defined above
-  logo: chess-knight-svgrepo-com.svg
-  title: 32 on 64 (Chess Blog)
-  url: https://32on64.substack.com/
+rss_icon: https://32on64.substack.com/ # comment this line to hide the RSS icon
