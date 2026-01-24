@@ -14,6 +14,8 @@ Leonel has taught undergraduate courses such as *Strategic Management* and *Busi
 
 Since his Master of Science, Leonel has also been interested in research methods and the science of science. A coding enthusiast, Ronei works with Python, R, and Stata in his research projects. He uses web-scraping and natural language process techniques to produce cutting-edge research.
 
+## Teaching Cases ##
+
 <div class="publications">
 
 {% bibliography --file cases %}

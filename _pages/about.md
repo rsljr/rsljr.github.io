@@ -2,16 +2,16 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Salisbury University</a>. Address. Contacts.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>PH 321</p>
+    <p>1101 Camden Avenue</p>
+    <p>Salisbury, MD 21801</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Ronei Leonel is an Assistant Professor of Management at the Salisbury University. Leonel’s research examines fundamental questions about the C-suite’s influence on firms' strategic actions and the mutual influence between firms and the nonmarket environment. Leonel has published in several journals, including the Journal of Management Studies, Academy of Management Perspectives, Rutgers Business Review, CSR and Environmental Management, and Management Research.
+**Ronei Leonel** is an Assistant Professor of Management at Salisbury University. His research sits at the intersection of strategic leadership and the nonmarket environment, investigating how C-suite executives navigate complex pressures—including **sociopolitical activism**, **business human rights**, and emerging **social issues**.
 
-Leonel has taught undergraduate courses such as *Strategic Management* and *Business and Society* at Salisbury University. He earned his Ph.D. in business administration at the University of Memphis. Before starting his Ph.D., Ronei worked as an instructor for five years in Brazil, teaching several different courses. His teaching philosophy involves experiential learning and student participation.
+A methodological pluralist, Ronei combines traditional econometric approaches with computational social science. He leverages Python, R, and Natural Language Processing (NLP) to analyze large-scale textual data, bringing new insights to fundamental questions in strategy. His work has been published in leading outlets including the *Journal of Management Studies*, *Academy of Management Perspectives*, *Rutgers Business Review*, and *Corporate Social Responsibility and Environmental Management*.
 
-Since his Master of Science, Leonel has also been interested in research methods and the science of science. A coding enthusiast, Ronei works with Python, R, and Stata in his research projects. He uses web-scraping and natural language process techniques to produce cutting-edge research.
+Ronei brings nearly a decade of international teaching experience to the classroom. Prior to his current role at Salisbury University, where he has taught for over four years, he spent five years as an instructor in Brazil. He currently leads courses in *Strategic Management* and *Business and Society*, utilizing experiential learning methods to ground theoretical concepts in real-world application.
+
+Outside of academia, Ronei is an avid chess player who competes in tournaments and enjoys studying the game. He also loves traveling to explore museums and historical sites with his wife and daughter, and experimenting with American and Italian-American cuisine in the kitchen.
