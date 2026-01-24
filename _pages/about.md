@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Ronei Leonel is an Assistant Professor of Management at the Salisbury University. Leonel’s research examines fundamental questions about the C-suite’s influence on firms' strategic actions and the mutual influence between firms and the nonmarket environment. Leonel has published in several journals, including the Journal of Management Studies, Academy of Management Perspectives, Rutgers Business Review, CSR and Environmental Management, and Management Research.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Leonel has taught undergraduate courses such as *Strategic Management* and *Business and Society* at Salisbury University. He earned his Ph.D. in business administration at the University of Memphis. Before starting his Ph.D., Ronei worked as an instructor for five years in Brazil, teaching several different courses. His teaching philosophy involves experiential learning and student participation.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Since his Master of Science, Leonel has also been interested in research methods and the science of science. A coding enthusiast, Ronei works with Python, R, and Stata in his research projects. He uses web-scraping and natural language process techniques to produce cutting-edge research.
