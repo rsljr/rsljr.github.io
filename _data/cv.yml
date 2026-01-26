@@ -61,15 +61,49 @@
       description:
         - Examines firms emphasizing 'shared value,' finding they often fail to align their corporate political activity (lobbying) with their stated social values.
 
-- title: Honors and Awards
+- title: Grants, Awards & Honors
   type: time_table
   contents:
-    - year: 
-      items:
-        -
-    - year: 
-      items:
-        - 
+    - title: Ph.D. Student Teaching Award
+      institution: University of Memphis, Fogelman College of Business & Economics
+      year: 2020
+      description: Recipient of the college-wide teaching award (USD 1,000).
+
+    - title: Best Reviewer Award (Strategy Process Track)
+      institution: Strategic Management Society Annual Conference
+      year: 2019
+
+    - title: Humane Studies Fellowship
+      institution: Institute for Humane Studies
+      year: 2018
+      description: Awarded a research fellowship grant (USD 2,000).
+
+    - title: Highly Commended Project
+      institution: Emerald/CLADEA Management Research Fund
+      year: 2018
+      description:
+        - "Project: 'The influence of Top Management Team's cognition on Corporate Political Activities'."
+
+    - title: SMA Doctoral Consortium Fellow
+      institution: Southern Management Association
+      year: 2016, 2018
+      description: Selected for both Early Stage (2016) and Late Stage (2018) consortia.
+
+    - title: Iberoamerican Young Scholars Program
+      institution: Fundación Bases and Fundación Atlas
+      year: 2015
+
+    - title: CNPq Fellowship Grant
+      institution: Brazilian Government (Ministry of Science and Technology)
+      year: 2009-2010
+      description:
+        - Two-time recipient of the national research fellowship (approx. USD 15,000 total).
+
+    - title: Honors Diploma
+      institution: Maringá State University (UEM)
+      year: 2009
+      description: Awarded for graduating with highest distinction.
+      
 - title: Academic Interests
   type: list
   contents:
