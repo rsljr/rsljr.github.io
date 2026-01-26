@@ -18,12 +18,6 @@ I view my role as a facilitator who bridges the gap between abstract theory and 
 
 I bring nearly a decade of teaching experience to the classroom, spanning two continents and vastly different cultural contexts. This experience taught me how to adapt my pedagogy to different learning styles and backgrounds, fostering an inclusive environment where every student's perspective contributes to the collective learning.
 
-## Current Courses
-
-### Strategic Management (MGMT 492)
-
-### Business and Society (MGMT 325)
-
 ---
 
 ## Teaching Cases & Resources
