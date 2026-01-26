@@ -2,96 +2,84 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Ronei Leonel
+    - name: Role
+      value: Assistant Professor of Management
+    - name: Location
+      value: Salisbury, Maryland, USA
+    - name: Email
+      value: rleonel@salisbury.edu
     - name: Languages
-      value: English, German
+      value: Portuguese (Native), English (Fluent)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Business Administration
+      institution: University of Memphis, Memphis, USA
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Major in Strategic Management
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Assistant Professor of Management
+      institution: Salisbury University
+      year: 2021 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+        - Teaching Strategic Management and Business & Society.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Selected Publications
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: "Digital Activism: Beyond Collective Action and Hashtags"
+      institution: Academy of Management Perspectives
+      year: 2024
+      url: https://doi.org/10.5465/amp.2023.0064
+      description:
+        - Critiques current theories of digital activism and argues that 'connective action' allows loose coalitions to exert significant pressure on firms without centralized organization.
+
+    - title: "Of Shepherds and Sheep: Who Sets the Agenda for Firms' Attention to Social Issues?"
+      institution: Corporate Social Responsibility and Environmental Management
+      year: 2024
+      url: https://doi.org/10.1002/csr.2979
+      description:
+        - Investigates how traditional media acts as a 'curator,' setting the agenda for which social issues firms address in their CSR reports.
+
+    - title: "Firms' Response to Slacktivism: When and Why are E‐Petitions Effective?"
+      institution: Journal of Management Studies
+      year: 2023
+      url: https://doi.org/10.1111/joms.13010
+      description:
+        - Finds that the 'velocity' of signatures and media coverage significantly increases the likelihood of a firm response to digital activism.
+
+    - title: "How Do Firms That Are Changing the World Engage Politically?"
+      institution: Rutgers Business Review
+      year: 2020
+      url: https://rbr.business.rutgers.edu/article/how-do-firms-are-changing-world-engage-politically
+      description:
+        - Examines firms emphasizing 'shared value,' finding they often fail to align their corporate political activity (lobbying) with their stated social values.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        -
+    - year: 
       items:
-        - Max Planck Medal
-
+        - 
 - title: Academic Interests
-  type: nested_list
+  type: list
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - Strategic Management
+    - C-Suite Sociopolitical Activism
+    - Corporate Political Activity
+    - Nonmarket Strategy
+    - Stakeholder Management
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Chess, Astrophotography, Sports.
