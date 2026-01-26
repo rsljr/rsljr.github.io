@@ -21,14 +21,39 @@
       description:
         - Major in Strategic Management
 
+    - title: M.Sc. in Management
+      institution: Federal University of Paraná (UFPR), Curitiba, Brazil
+      year: 2011
+      description:
+        - Concentration in Strategy and Organizations
+
+    - title: B.A. in Business Administration
+      institution: Maringá State University (UEM), Maringá, Brazil
+      year: 2008
+      description:
+        - Graduated with Highest Distinction (Honors Diploma / Láurea Acadêmica)
+
 - title: Experience
   type: time_table
   contents:
     - title: Assistant Professor of Management
-      institution: Salisbury University
+      institution: Salisbury University, MD, USA
       year: 2021 - Present
       description:
-        - Teaching Strategic Management and Business & Society.
+        - Teaching Strategic Management (MGMT 492) and Business & Society (MGMT 325).
+
+    - title: Graduate Instructor & Research Assistant
+      institution: University of Memphis, TN, USA
+      year: 2016 - 2021
+      description:
+        - Taught Strategic Management at the undergraduate level.
+
+    - title: Lecturer in Management
+      institution: Maringá State University (UEM) & Metropolitan College of Maringá
+      year: 2011 - 2016
+      description:
+        - Taught courses in General Management, Strategy, and Entrepreneurship.
+        - Served in administrative roles coordinating undergraduate programs.
 
 - title: Selected Publications
   type: time_table
@@ -42,24 +67,24 @@
 
     - title: "Of Shepherds and Sheep: Who Sets the Agenda for Firms' Attention to Social Issues?"
       institution: Corporate Social Responsibility and Environmental Management
-      year: 2024
+      year: 2025
       url: https://doi.org/10.1002/csr.2979
       description:
         - Investigates how traditional media acts as a 'curator,' setting the agenda for which social issues firms address in their CSR reports.
 
     - title: "Firms' Response to Slacktivism: When and Why are E‐Petitions Effective?"
       institution: Journal of Management Studies
-      year: 2023
+      year: 2024
       url: https://doi.org/10.1111/joms.13010
       description:
         - Finds that the 'velocity' of signatures and media coverage significantly increases the likelihood of a firm response to digital activism.
 
-    - title: "How Do Firms That Are Changing the World Engage Politically?"
-      institution: Rutgers Business Review
-      year: 2020
-      url: https://rbr.business.rutgers.edu/article/how-do-firms-are-changing-world-engage-politically
+    - title: "Threat, mortality, and rigidity: how terror management and threat rigidity shaped small business responses to the COVID-19 crisis"
+      institution: Journal of Small Business & Entrepreneurship
+      year: 2026
+      url: https://doi.org/10.1080/08276331.2026.2614237
       description:
-        - Examines firms emphasizing 'shared value,' finding they often fail to align their corporate political activity (lobbying) with their stated social values.
+        - "Integrates Terror Management Theory and Threat Rigidity to examine small business responses to the COVID-19 crisis. We find that the pandemic shock led to a significant increase in directive leadership behavior, consistent with threat-rigidity mechanisms."
 
 - title: Grants, Awards & Honors
   type: time_table
@@ -103,7 +128,7 @@
       institution: Maringá State University (UEM)
       year: 2009
       description: Awarded for graduating with highest distinction.
-      
+
 - title: Academic Interests
   type: list
   contents:
