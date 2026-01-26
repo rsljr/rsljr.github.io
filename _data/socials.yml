@@ -51,7 +51,7 @@ scholar_userid: mLgRxJcAAAAJ # your Google Scholar ID
 x_username: roneileonel # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-rss_icon: https://32on64.substack.com/ # comment this line to hide the RSS icon
+# rss_icon: https://32on64.substack.com/ # comment this line to hide the RSS icon
 custom_social:
   logo: https://raw.githubusercontent.com/rsljr/rsljr.github.io/master/assets/img/chess-knight-svgrepo-com.svg
   title: 32 on 64 (Chess Blog)

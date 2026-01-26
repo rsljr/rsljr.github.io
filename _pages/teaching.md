@@ -8,17 +8,30 @@ nav_order: 3
 calendar: true
 ---
 
-Ronei Leonel is an Assistant Professor of Management at the Salisbury University. Leonel’s research examines fundamental questions about the C-suite’s influence on firms' strategic actions and the mutual influence between firms and the nonmarket environment. Leonel has published in several journals, including the Journal of Management Studies, Academy of Management Perspectives, Rutgers Business Review, CSR and Environmental Management, and Management Research.
+## Teaching Philosophy
 
-Leonel has taught undergraduate courses such as *Strategic Management* and *Business and Society* at Salisbury University. He earned his Ph.D. in business administration at the University of Memphis. Before starting his Ph.D., Ronei worked as an instructor for five years in Brazil, teaching several different courses. His teaching philosophy involves experiential learning and student participation.
+For me, the classroom is not a place for passive absorption, but a laboratory for strategic decision-making. My teaching philosophy is grounded in **experiential learning**—the belief that students learn best by *doing*.
 
-Since his Master of Science, Leonel has also been interested in research methods and the science of science. A coding enthusiast, Ronei works with Python, R, and Stata in his research projects. He uses web-scraping and natural language process techniques to produce cutting-edge research.
+I view my role as a facilitator who bridges the gap between abstract theory and the messy, complex reality of the business world. Whether we are analyzing a C-suite sociopolitical crisis or dissecting a firm's competitive advantage, my goal is to challenge students to think critically, defend their positions, and understand the consequences of their decisions.
 
-## Teaching Cases ##
+## International Experience & Diversity
+
+I bring nearly a decade of teaching experience to the classroom, spanning two continents and vastly different cultural contexts. This experience taught me how to adapt my pedagogy to different learning styles and backgrounds, fostering an inclusive environment where every student's perspective contributes to the collective learning.
+
+## Current Courses
+
+### Strategic Management (MGMT 492)
+
+### Business and Society (MGMT 325)
+
+---
+
+## Teaching Cases & Resources
+
+I actively develop teaching cases to bring fresh, relevant scenarios into the classroom. Below is a selection of my published teaching cases and educational resources.
 
 <div class="publications">
 
 {% bibliography --file cases %}
 
 </div>
-
