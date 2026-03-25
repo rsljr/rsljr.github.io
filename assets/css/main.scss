@@ -49,13 +49,13 @@ html[data-theme="dark"], body.dark, body.dark-mode, body.dark-theme, [data-theme
    2. HEADER & NAME STYLING (TARGETED)
    ======================================================= */
 /* Target ONLY the top navigation bar container */
-header, .navbar, .navbar-default, .site-header {
+.navbar, .navbar-default{
     background-color: var(--header-bg) !important;
     border-bottom: 3px solid var(--theme-hover) !important;
 }
 
 /* Target ONLY your name inside the navigation bar */
-.navbar .navbar-brand, header .site-title, .navbar-brand {
+.navbar .navbar-brand, .site-title, .navbar-brand {
     font-weight: 700 !important;
     font-size: 1.6rem !important; /* Enlarges your name in the header */
     text-transform: none !important;
