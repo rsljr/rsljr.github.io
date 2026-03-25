@@ -26,180 +26,73 @@ $max-content-width: {{ site.max_width }};
 ;
 
 /* =======================================================
-   CUSTOM OVERRIDES: Salisbury University Brand Colors 
+   1. COLOR VARIABLES & THEME TOGGLE FIX
    ======================================================= */
-
 :root {
-    --su-maroon: #8A0000;
-    --su-gold: #FFC420;
+    /* Default Light Mode Colors */
+    --theme-primary: #8A0000; /* Salisbury Maroon */
+    --theme-hover: #FFC420;   /* Salisbury Gold */
+    --header-bg: #8A0000;     
+    --header-text: #ffffff;   
 }
 
-/* 1. Global Link Colors */
-a {
-    color: var(--su-maroon);
-    text-decoration: none; /* Optional: removes the underline */
-}
-
-a:hover {
-    color: var(--su-gold);
-}
-
-/* 2. Main Headings */
-h1, h2, h3 {
-    color: var(--su-maroon);
-}
-
-/* 3. Navigation Bar Links 
-   (Adding !important ensures it overrides the theme's strict navbar rules) */
-.navbar a, .nav-link, .navbar-brand {
-    color: var(--su-maroon) !important;
-}
-
-.navbar a:hover, .nav-link:hover {
-    color: var(--su-gold) !important;
-}
-
-/* Optional: Make buttons pop with the gold accent */
-.btn, .button {
-    background-color: var(--su-maroon);
-    color: #ffffff;
-    border-color: var(--su-maroon);
-}
-
-.btn:hover, .button:hover {
-    background-color: var(--su-gold);
-    color: var(--su-maroon);
-    border-color: var(--su-gold);
+/* Dark Mode Colors 
+   (Triggered ONLY by the website's toggle, ignoring your OS settings) */
+html[data-theme="dark"], body.dark, body.dark-mode, body.dark-theme, [data-theme="dark"] {
+    --theme-primary: #FFC420; 
+    --theme-hover: #8A0000;   
+    --header-bg: #121212;     /* Dark Charcoal Header */
+    --header-text: #FFC420;   
 }
 
 /* =======================================================
-   CUSTOM OVERRIDES: Salisbury University Brand Colors 
-   (With Dark Mode Support)
+   2. HEADER & NAME STYLING (TARGETED)
    ======================================================= */
-
-:root {
-    --su-maroon: #8A0000;
-    --su-gold: #FFC420;
-    
-    /* Default (Light Theme) Assignments */
-    --theme-primary: var(--su-maroon);
-    --theme-hover: var(--su-gold);
+/* Target ONLY the top navigation bar container */
+header, .navbar, .navbar-default, .site-header {
+    background-color: var(--header-bg) !important;
+    border-bottom: 3px solid var(--theme-hover) !important;
 }
 
-/* Dark Theme Assignments 
-   (Adjusts if the user's system is in dark mode) */
-@media (prefers-color-scheme: dark) {
-    :root {
-        --theme-primary: var(--su-gold);
-        --theme-hover: var(--su-maroon);
-    }
+/* Target ONLY your name inside the navigation bar */
+.navbar .navbar-brand, header .site-title, .navbar-brand {
+    color: var(--header-text) !important;
+    font-weight: 700 !important;
+    font-size: 1.6rem !important; /* Enlarges your name in the header */
+    text-transform: none !important;
 }
 
-/* Dark Theme Assignments 
-   (Adjusts if your theme uses a toggle button) */
-[data-theme="dark"], .dark-mode, .dark-theme {
-    --theme-primary: var(--su-gold);
-    --theme-hover: var(--su-maroon);
+/* Target the navigation links (CV, Publications, Teaching) in the header */
+.navbar .nav-link, .navbar-nav > li > a, header .nav a {
+    color: var(--header-text) !important;
+    font-weight: 500;
 }
 
-/* =======================================================
-   Applying the Dynamic Variables
-   ======================================================= */
-
-/* 1. Global Link Colors */
-a {
-    color: var(--theme-primary);
-    text-decoration: none; 
-}
-
-a:hover {
-    color: var(--theme-hover);
-}
-
-/* 2. Main Headings */
-h1, h2, h3 {
-    color: var(--theme-primary);
-}
-
-/* 3. Navigation Bar Links */
-.navbar a, .nav-link, .navbar-brand {
-    color: var(--theme-primary) !important;
-}
-
-.navbar a:hover, .nav-link:hover {
+.navbar .nav-link:hover, .navbar-nav > li > a:hover, header .nav a:hover {
     color: var(--theme-hover) !important;
 }
 
-/* 4. Buttons */
+/* =======================================================
+   3. BODY LINKS & BUTTONS (Kept away from the header)
+   ======================================================= */
+/* Only style links inside the main page content */
+main a, .page-content a, .content a {
+    color: var(--theme-primary);
+    text-decoration: none;
+}
+
+main a:hover, .page-content a:hover, .content a:hover {
+    color: var(--theme-hover);
+}
+
 .btn, .button {
-    background-color: var(--theme-primary);
-    color: #ffffff;
-    border-color: var(--theme-primary);
+    background-color: var(--theme-primary) !important;
+    color: #ffffff !important;
+    border-color: var(--theme-primary) !important;
 }
 
 .btn:hover, .button:hover {
-    background-color: var(--theme-hover);
-    color: #ffffff;
-    border-color: var(--theme-hover);
-}
-
-/* =======================================================
-   HEADER STYLING (Solid Background & Prominent Name)
-   ======================================================= */
-
-/* 1. Header Color Variables */
-:root {
-    --header-bg: #8A0000; /* Salisbury Maroon for Light Mode */
-    --header-text: #ffffff; /* White text for contrast */
-    --header-hover: #FFC420; /* Salisbury Gold for hover */
-}
-
-/* Dark Mode Adjustments for Header */
-@media (prefers-color-scheme: dark) {
-    :root {
-        --header-bg: #121212; /* Dark charcoal/black for Dark Mode */
-        --header-text: #FFC420; /* Gold text for readability */
-        --header-hover: #ffffff; /* White hover */
-    }
-}
-
-[data-theme="dark"], .dark-mode, .dark-theme {
-    --header-bg: #121212; 
-    --header-text: #FFC420; 
-    --header-hover: #ffffff; 
-}
-
-/* 2. Apply to the Navigation Bar container */
-header, .navbar, .site-header {
-    background-color: var(--header-bg) !important;
-    border-bottom: 3px solid var(--header-hover); /* Adds a sharp accent line */
-    padding-top: 15px; /* Gives the header more breathing room */
-    padding-bottom: 15px;
-}
-
-/* 3. Style Your Name (The Brand Element) */
-.navbar-brand, .site-title {
-    color: var(--header-text) !important;
-    font-weight: 700; /* Bold to match Matilde's emphasis */
-    font-size: 1.5rem; /* Increases the size of your name */
-    letter-spacing: 0.5px;
-}
-
-/* 4. Style the Navigation Menu Links */
-.navbar a.nav-link, .site-nav a, .navbar-nav > li > a {
-    color: var(--header-text) !important;
-    font-weight: 500;
-    text-transform: uppercase; /* Gives the menu a clean, structured look */
-    font-size: 0.9rem;
-    margin-left: 15px; /* Spaces out the links slightly */
-}
-
-/* 5. Hover Effects for the Header */
-.navbar a.nav-link:hover, .site-nav a:hover, .navbar-brand:hover {
-    color: var(--header-hover) !important;
-}
-
-/* 6. Fix the Mobile Hamburger Menu Icon (Optional but recommended) */
-.navbar-toggler-icon {
-    filter: invert(1); /* Ensures the menu icon is visible on the dark header */
+    background-color: var(--theme-hover) !important;
+    color: var(--header-bg) !important;
+    border-color: var(--theme-hover) !important;
 }
