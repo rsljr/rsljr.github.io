@@ -56,7 +56,6 @@ header, .navbar, .navbar-default, .site-header {
 
 /* Target ONLY your name inside the navigation bar */
 .navbar .navbar-brand, header .site-title, .navbar-brand {
-    color: var(--header-text) !important;
     font-weight: 700 !important;
     font-size: 1.6rem !important; /* Enlarges your name in the header */
     text-transform: none !important;
