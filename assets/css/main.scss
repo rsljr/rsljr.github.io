@@ -96,3 +96,64 @@ h1, h2, h3 {
     color: #ffffff;
     border-color: var(--theme-hover);
 }
+
+/* =======================================================
+   HEADER STYLING (Solid Background & Prominent Name)
+   ======================================================= */
+
+/* 1. Header Color Variables */
+:root {
+    --header-bg: #8A0000; /* Salisbury Maroon for Light Mode */
+    --header-text: #ffffff; /* White text for contrast */
+    --header-hover: #FFC420; /* Salisbury Gold for hover */
+}
+
+/* Dark Mode Adjustments for Header */
+@media (prefers-color-scheme: dark) {
+    :root {
+        --header-bg: #121212; /* Dark charcoal/black for Dark Mode */
+        --header-text: #FFC420; /* Gold text for readability */
+        --header-hover: #ffffff; /* White hover */
+    }
+}
+
+[data-theme="dark"], .dark-mode, .dark-theme {
+    --header-bg: #121212; 
+    --header-text: #FFC420; 
+    --header-hover: #ffffff; 
+}
+
+/* 2. Apply to the Navigation Bar container */
+header, .navbar, .site-header {
+    background-color: var(--header-bg) !important;
+    border-bottom: 3px solid var(--header-hover); /* Adds a sharp accent line */
+    padding-top: 15px; /* Gives the header more breathing room */
+    padding-bottom: 15px;
+}
+
+/* 3. Style Your Name (The Brand Element) */
+.navbar-brand, .site-title {
+    color: var(--header-text) !important;
+    font-weight: 700; /* Bold to match Matilde's emphasis */
+    font-size: 1.5rem; /* Increases the size of your name */
+    letter-spacing: 0.5px;
+}
+
+/* 4. Style the Navigation Menu Links */
+.navbar a.nav-link, .site-nav a, .navbar-nav > li > a {
+    color: var(--header-text) !important;
+    font-weight: 500;
+    text-transform: uppercase; /* Gives the menu a clean, structured look */
+    font-size: 0.9rem;
+    margin-left: 15px; /* Spaces out the links slightly */
+}
+
+/* 5. Hover Effects for the Header */
+.navbar a.nav-link:hover, .site-nav a:hover, .navbar-brand:hover {
+    color: var(--header-hover) !important;
+}
+
+/* 6. Fix the Mobile Hamburger Menu Icon (Optional but recommended) */
+.navbar-toggler-icon {
+    filter: invert(1); /* Ensures the menu icon is visible on the dark header */
+}
