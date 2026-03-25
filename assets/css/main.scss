@@ -25,6 +25,52 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-outline.scss"
 ;
 
+/* =======================================================
+   CUSTOM OVERRIDES: Salisbury University Brand Colors 
+   ======================================================= */
+
+:root {
+    --su-maroon: #8A0000;
+    --su-gold: #FFC420;
+}
+
+/* 1. Global Link Colors */
+a {
+    color: var(--su-maroon);
+    text-decoration: none; /* Optional: removes the underline */
+}
+
+a:hover {
+    color: var(--su-gold);
+}
+
+/* 2. Main Headings */
+h1, h2, h3 {
+    color: var(--su-maroon);
+}
+
+/* 3. Navigation Bar Links 
+   (Adding !important ensures it overrides the theme's strict navbar rules) */
+.navbar a, .nav-link, .navbar-brand {
+    color: var(--su-maroon) !important;
+}
+
+.navbar a:hover, .nav-link:hover {
+    color: var(--su-gold) !important;
+}
+
+/* Optional: Make buttons pop with the gold accent */
+.btn, .button {
+    background-color: var(--su-maroon);
+    color: #ffffff;
+    border-color: var(--su-maroon);
+}
+
+.btn:hover, .button:hover {
+    background-color: var(--su-gold);
+    color: var(--su-maroon);
+    border-color: var(--su-gold);
+}
 
 /* =======================================================
    CUSTOM OVERRIDES: Salisbury University Brand Colors 
