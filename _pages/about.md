@@ -1,8 +1,10 @@
 ---
 layout: about
 title: About
-permalink: /
+permalink: /about/
 subtitle: Assistant Professor, Salisbury University.
+nav: true
+nav_order: 1
 
 profile:
   align: right
