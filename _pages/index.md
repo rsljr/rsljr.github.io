@@ -3,6 +3,7 @@ layout: about
 title: Home
 permalink: /
 subtitle: Assistant Professor, Salisbury University.
+nav: false
 
 profile:
   align: right
