@@ -14,7 +14,7 @@ profile:
     <p>Salisbury, MD 21801</p>
 
 social: true # includes social icons at the bottom of the page
-
+---
 **Ronei Leonel** is an Assistant Professor of Management at Salisbury University. His research sits at the intersection of strategic leadership and the nonmarket environment, investigating how C-suite executives navigate complex pressures—including **sociopolitical activism**, **business human rights**, and emerging **social issues**.
 
 A methodological pluralist, Ronei combines traditional econometric approaches with computational social science. He leverages Python, R, and Natural Language Processing (NLP) to analyze large-scale textual data, bringing new insights to fundamental questions in strategy. His work has been published in leading outlets including the *Journal of Management Studies*, *Academy of Management Perspectives*, *Rutgers Business Review*, and *Corporate Social Responsibility and Environmental Management*.
