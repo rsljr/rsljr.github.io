@@ -95,3 +95,21 @@ main a:hover, .page-content a:hover, .content a:hover {
     color: var(--header-bg) !important;
     border-color: var(--theme-hover) !important;
 }
+/* =======================================================
+   6. CV PAGE ICON COLORS
+   ======================================================= */
+/* Target all FontAwesome and Academicons inside the CV layout */
+.cv i.fas, .cv i.fab, .cv i.far, .cv i.fa-solid, .cv i.ai, .cv .icon {
+    color: var(--theme-primary) !important;
+}
+
+/* Optional: Add the hover effect to the CV icons */
+.cv i.fas:hover, .cv i.fab:hover, .cv i.far:hover, .cv i.fa-solid:hover, .cv i.ai:hover, .cv .icon:hover {
+    color: var(--theme-hover) !important;
+}
+
+/* Target specific timeline dots or badges if your theme uses them */
+.cv .timeline .timeline-badge, .cv .badge {
+    background-color: var(--theme-primary) !important;
+    color: var(--header-text) !important;
+}
