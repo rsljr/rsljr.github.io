@@ -34,6 +34,10 @@ $max-content-width: {{ site.max_width }};
     --theme-hover: #FFC420;   /* Salisbury Gold */
     --header-bg: #8A0000;     
     --header-text: #ffffff;   
+
+    /* Hijack the Theme's Native Purple */
+    --global-theme-color: #8A0000 !important;
+    --global-hover-color: #FFC420 !important;
 }
 
 /* Dark Mode Colors 
@@ -41,8 +45,12 @@ $max-content-width: {{ site.max_width }};
 html[data-theme="dark"], body.dark, body.dark-mode, body.dark-theme, [data-theme="dark"] {
     --theme-primary: #FFC420; 
     --theme-hover: #8A0000;   
-    --header-bg: #121212;     /* Dark Charcoal Header */
+    --header-bg: #121212;     
     --header-text: #FFC420;   
+    
+    /* Dark Mode Overrides */
+    --global-theme-color: #FFC420 !important;
+    --global-hover-color: #8A0000 !important;
 }
 
 /* =======================================================
@@ -114,28 +122,3 @@ main a:hover, .page-content a:hover, .content a:hover {
     color: var(--header-text) !important;
 }
 
-/* =======================================================
-   7. CV PAGE: BADGES & PDF ICON OVERRIDE
-   ======================================================= */
-/* 1. Target the Date Badges (e.g., "2021") */
-.cv .badge, 
-.cv span.badge,
-.cv .list-groups .badge {
-    background-color: var(--theme-primary) !important;
-    color: #ffffff !important; /* Forces the text to stay white */
-}
-
-/* 2. Target the massive PDF icon in the top right */
-.cv a .fa-file-pdf,
-.cv .float-right i.fas,
-.cv-pdf i {
-    color: var(--theme-primary) !important;
-    transition: color 0.2s ease-in-out;
-}
-
-/* 3. Add the Gold hover effect to the PDF icon */
-.cv a:hover .fa-file-pdf,
-.cv .float-right i.fas:hover,
-.cv-pdf a:hover i {
-    color: var(--theme-hover) !important;
-}
