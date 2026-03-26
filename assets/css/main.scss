@@ -121,4 +121,23 @@ main a:hover, .page-content a:hover, .content a:hover {
     background-color: var(--theme-primary) !important;
     color: var(--header-text) !important;
 }
+/* =======================================================
+   8. TABLE OF CONTENTS (SIDEBAR) FIX
+   ======================================================= */
+/* Force the sidebar links to use the primary theme color (Maroon/Gold) */
+.toc a, 
+nav[data-toggle="toc"] .nav .nav-link,
+.cv .toc-entry a {
+    color: var(--theme-primary) !important;
+}
 
+/* Give them the hover effect, and keep the active section highlighted */
+.toc a:hover, 
+nav[data-toggle="toc"] .nav .nav-link:hover,
+.toc a.active,
+nav[data-toggle="toc"] .nav .nav-link.active,
+.cv .toc-entry a:hover,
+.cv .toc-entry a.active {
+    color: var(--theme-hover) !important;
+    font-weight: 600; /* Makes the active section pop a bit more */
+}
