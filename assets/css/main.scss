@@ -141,3 +141,28 @@ nav[data-toggle="toc"] .nav .nav-link.active,
     color: var(--theme-hover) !important;
     font-weight: 600; /* Makes the active section pop a bit more */
 }
+/* =======================================================
+   X. UNIFIED ICON COLORS (SOCIAL, CV, AND CONTACT)
+   ======================================================= */
+
+/* 1. Broadly target all FontAwesome, Academicons, and any standard icon elements */
+i.fas, i.fab, i.far, i.fa-solid, i.ai, .icon,
+.contact-icons i, .social-buttons i, .social i, .cv-pdf i, .float-right i {
+    color: var(--theme-primary) !important;
+    transition: color 0.2s ease-in-out; /* Adds a smooth transition on color change */
+}
+
+/* 2. Target the Unified Hover State for all icons */
+a:hover i.fas, a:hover i.fab, a:hover i.far, a:hover i.fa-solid, a:hover i.ai, a:hover .icon,
+.contact-icons a:hover i, .social-buttons a:hover i, .social a:hover i, .cv-pdf a:hover i {
+    color: var(--theme-hover) !important;
+}
+
+/* 3. Target the CV Page DATE BADGES (e.g., "2021") */
+.cv .badge,
+.timeline .timeline-badge,
+.list-groups .badge,
+.badge-secondary, .badge-info {
+    background-color: var(--theme-primary) !important;
+    color: #ffffff !important; /* Force text to stay crisp white */
+}
