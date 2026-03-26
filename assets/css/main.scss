@@ -166,3 +166,32 @@ a:hover i.fas, a:hover i.fab, a:hover i.far, a:hover i.fa-solid, a:hover i.ai, a
     background-color: var(--theme-primary) !important;
     color: #ffffff !important; /* Force text to stay crisp white */
 }
+/* =======================================================
+   9. BRUTE FORCE ICON COLORS (SVGs & Links)
+   ======================================================= */
+/* Target the links, the font icons, and the SVG paths directly */
+.social a, 
+.social a i, 
+.social a svg, 
+.social a svg path,
+.contact-icons a, 
+.contact-icons a i, 
+.contact-icons a svg, 
+.contact-icons a svg path {
+    color: var(--theme-primary) !important;
+    fill: var(--theme-primary) !important;
+    transition: all 0.2s ease-in-out;
+}
+
+/* Hover States */
+.social a:hover, 
+.social a:hover i, 
+.social a:hover svg, 
+.social a:hover svg path,
+.contact-icons a:hover, 
+.contact-icons a:hover i, 
+.contact-icons a:hover svg, 
+.contact-icons a:hover svg path {
+    color: var(--theme-hover) !important;
+    fill: var(--theme-hover) !important;
+}
