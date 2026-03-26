@@ -113,3 +113,29 @@ main a:hover, .page-content a:hover, .content a:hover {
     background-color: var(--theme-primary) !important;
     color: var(--header-text) !important;
 }
+
+/* =======================================================
+   7. CV PAGE: BADGES & PDF ICON OVERRIDE
+   ======================================================= */
+/* 1. Target the Date Badges (e.g., "2021") */
+.cv .badge, 
+.cv span.badge,
+.cv .list-groups .badge {
+    background-color: var(--theme-primary) !important;
+    color: #ffffff !important; /* Forces the text to stay white */
+}
+
+/* 2. Target the massive PDF icon in the top right */
+.cv a .fa-file-pdf,
+.cv .float-right i.fas,
+.cv-pdf i {
+    color: var(--theme-primary) !important;
+    transition: color 0.2s ease-in-out;
+}
+
+/* 3. Add the Gold hover effect to the PDF icon */
+.cv a:hover .fa-file-pdf,
+.cv .float-right i.fas:hover,
+.cv-pdf a:hover i {
+    color: var(--theme-hover) !important;
+}
