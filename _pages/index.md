@@ -14,11 +14,16 @@ profile:
     <p>1101 Camden Avenue</p>
     <p>Salisbury, MD 21801</p>
 
-social: true # includes social icons at the bottom of the page
 ---
-**Ronei Leonel** is an Assistant Professor of Management at Salisbury University. His research sits at the intersection of strategic leadership and the nonmarket environment, investigating how C-suite executives navigate complex pressures—including **sociopolitical activism**, **business human rights**, and emerging **social issues**.
+**Ronei Leonel** is an Assistant Professor of Management at Salisbury University. His research sits at the intersection of strategic leadership and the nonmarket environment.
 
-A methodological pluralist, Ronei combines traditional econometric approaches with computational social science. He leverages Python, R, and Natural Language Processing (NLP) to analyze large-scale textual data, bringing new insights to fundamental questions in strategy. His work has been published in leading outlets including the *Journal of Management Studies*, *Academy of Management Perspectives*, *Rutgers Business Review*, and *Corporate Social Responsibility and Environmental Management*.
+A methodological pluralist, Ronei combines traditional econometric approaches with computational social science. He leverages Python, R, and Natural Language Processing (NLP) to analyze large-scale textual data, bringing new insights to fundamental questions in strategy.
 
-Ronei brings nearly a decade of international teaching experience to the classroom. Prior to his current role at Salisbury University, where he has taught for over four years, he spent five years as an instructor in Brazil. He currently leads courses in *Strategic Management* and *Business and Society*, utilizing experiential learning methods to ground theoretical concepts in real-world application.
+<div class="social" style="text-align: center; margin-top: 2rem;">
+  <div class="contact-icons">
+    <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fa-solid fa-envelope"></i></a>
+    <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+    <a href="https://github.com/{{ site.github_username }}" title="GitHub"><i class="fa-brands fa-github"></i></a>
+  </div>
+</div>
 
